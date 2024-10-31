@@ -110,7 +110,7 @@ class ResidualBlock(nn.Module):
         out = self.relu(out)
         return out
 
-# Define ResNet18
+# Define ResNet34
 class resnet34(nn.Module):
     def __init__(self, num_classes=10):
         super(resnet34, self).__init__()
