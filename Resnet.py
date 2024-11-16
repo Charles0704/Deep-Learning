@@ -80,7 +80,7 @@ class ResNet(nn.Module):
     def __init__(self,
                  block,  
                  blocks_num,  
-                 num_classes=1000,  
+                 num_classes=10,  
                  include_top=True,  
                  groups=1,  
                  width_per_group=64):
