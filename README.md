@@ -3,10 +3,14 @@
   ├── Fashion_MNIST.ipynb
   ├── LSTM.ipynb
   ├── MINST.ipynb
-  ├── DL_model.py
+  ├── CNN.py
     ├── LeNet
     ├── ConvNet
+  ├── Resnet.py
+    ├── resnet18
     ├── resnet34
+    ├── resnet50
+    ├── resnet101
 ``` 
 
 ## Environment:
